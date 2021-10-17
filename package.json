@@ -1,0 +1,24 @@
+{
+  "name": "web-dev-practice-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/airbornesd/web-dev-practice-1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/airbornesd/web-dev-practice-1/issues"
+  },
+  "homepage": "https://github.com/airbornesd/web-dev-practice-1#readme",
+  "dependencies": {
+    "axios": "^0.23.0",
+    "cheerio": "^1.0.0-rc.10",
+    "express": "^4.17.1"
+  }
+}
